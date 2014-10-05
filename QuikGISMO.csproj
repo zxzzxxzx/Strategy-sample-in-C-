@@ -1,0 +1,452 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.30729</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{3F5FBB7C-49CD-4802-8752-A94244C133BE}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>RoboGISMO</RootNamespace>
+    <AssemblyName>RoboGISMO</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <ProjectTypeGuids>{60dc8134-eba5-43b8-bcc9-bb4bc16c2548};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
+    <WarningLevel>4</WarningLevel>
+    <ApplicationIcon>StockSharp\References\stocksharp.ico</ApplicationIcon>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <OldToolsVersion>3.5</OldToolsVersion>
+    <UpgradeBackupLocation />
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <TargetFrameworkProfile />
+    <SccProjectName>SAK</SccProjectName>
+    <SccLocalPath>SAK</SccLocalPath>
+    <SccAuxPath>SAK</SccAuxPath>
+    <SccProvider>SAK</SccProvider>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <PlatformTarget>x86</PlatformTarget>
+    <CodeAnalysisRuleSet>AllRules.ruleset</CodeAnalysisRuleSet>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <PlatformTarget>x86</PlatformTarget>
+    <CodeAnalysisRuleSet>AllRules.ruleset</CodeAnalysisRuleSet>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="PowerCollections, Version=1.0.2224.30206, Culture=neutral, PublicKeyToken=8d05ee679e87a45f, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>StockSharp\References\PowerCollections.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.configuration" />
+    <Reference Include="System.Core">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xaml" />
+    <Reference Include="WindowsBase">
+      <RequiredTargetFramework>3.0</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="PresentationCore">
+      <RequiredTargetFramework>3.0</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="PresentationFramework">
+      <RequiredTargetFramework>3.0</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="Ecng.Collections">
+      <HintPath>..\..\..\References\Ecng.Collections.dll</HintPath>
+    </Reference>
+    <Reference Include="Ecng.Common">
+      <HintPath>..\..\..\References\Ecng.Common.dll</HintPath>
+    </Reference>
+    <Reference Include="Ecng.ComponentModel">
+      <HintPath>..\..\..\References\Ecng.ComponentModel.dll</HintPath>
+    </Reference>
+    <Reference Include="Ecng.Serialization">
+      <HintPath>..\..\..\References\Ecng.Serialization.dll</HintPath>
+    </Reference>
+    <Reference Include="Ecng.Xaml">
+      <HintPath>..\..\..\References\Ecng.Xaml.dll</HintPath>
+    </Reference>
+    <Reference Include="Xceed.Wpf.Toolkit">
+      <HintPath>..\..\..\References\Xceed.Wpf.Toolkit.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <ApplicationDefinition Include="App.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </ApplicationDefinition>
+    <Page Include="MainWindow.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="MyTradesWindow.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="NewOrderWindow.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="NewStopOrderWindow.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="OrdersWindow.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="PortfoliosWindow.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="PositionsWindow.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="QuotesWindow.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="SecuritiesWindow.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="StopOrderWindow.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="Strategy.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="TradesWindow.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Compile Include="App.xaml.cs">
+      <DependentUpon>App.xaml</DependentUpon>
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="MainWindow.xaml.cs">
+      <DependentUpon>MainWindow.xaml</DependentUpon>
+      <SubType>Code</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="MyTradesWindow.xaml.cs">
+      <DependentUpon>MyTradesWindow.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="NewOrderWindow.xaml.cs">
+      <DependentUpon>NewOrderWindow.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="NewStopOrderWindow.xaml.cs">
+      <DependentUpon>NewStopOrderWindow.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="OrdersWindow.xaml.cs">
+      <DependentUpon>OrdersWindow.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="PortfoliosWindow.xaml.cs">
+      <DependentUpon>PortfoliosWindow.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="PositionsWindow.xaml.cs">
+      <DependentUpon>PositionsWindow.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="QuotesWindow.xaml.cs">
+      <DependentUpon>QuotesWindow.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="SampleQuote.cs" />
+    <Compile Include="SecuritiesWindow.xaml.cs">
+      <DependentUpon>SecuritiesWindow.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="StopOrderWindow.xaml.cs">
+      <DependentUpon>StopOrderWindow.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Strategy.xaml.cs">
+      <DependentUpon>Strategy.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="TradesWindow.xaml.cs">
+      <DependentUpon>TradesWindow.xaml</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <None Include="app.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <AppDesigner Include="Properties\" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>Клиентский профиль .NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Windows.Installer.3.1">
+      <Visible>False</Visible>
+      <ProductName>Windows Installer 3.1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <Reference Include="StockSharp.Algo">
+      <HintPath>..\..\..\References\StockSharp.Algo.dll</HintPath>
+    </Reference>
+    <Reference Include="StockSharp.BusinessEntities">
+      <HintPath>..\..\..\References\StockSharp.BusinessEntities.dll</HintPath>
+    </Reference>
+    <Reference Include="StockSharp.Quik">
+      <HintPath>..\..\..\References\StockSharp.Quik.dll</HintPath>
+    </Reference>
+    <Reference Include="StockSharp.Logging">
+      <HintPath>..\..\..\References\StockSharp.Logging.dll</HintPath>
+    </Reference>
+    <Reference Include="StockSharp.Xaml">
+      <HintPath>..\..\..\References\StockSharp.Xaml.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Waves\AG_Dynk.wav">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Waves\AG_Instr_Del.wav">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Waves\AG_Kuiq.wav">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Waves\AutoChase.wav">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Waves\connect.wav">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Waves\Connected.wav">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Waves\ConnectionFault.wav">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Waves\ConnectionLost.wav">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Waves\ir_begin.wav">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Waves\ir_end.wav">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Waves\Windows Pop-up Blocked.wav">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Resource Include="stocksharp.ico" />
+    <Content Include="StockSharp\References\Abt.Controls.SciChart.Wpf.dll" />
+    <Resource Include="StockSharp\References\Abt.Controls.SciChart.Wpf.XML" />
+    <Content Include="StockSharp\References\Antlr3.Runtime.Debug.dll" />
+    <Content Include="StockSharp\References\Antlr3.Runtime.dll" />
+    <Content Include="StockSharp\References\Antlr3.StringTemplate.dll" />
+    <Content Include="StockSharp\References\API.dll" />
+    <Resource Include="StockSharp\References\API.XML" />
+    <Content Include="StockSharp\References\AutomaticUpdaterWPF.dll" />
+    <Resource Include="StockSharp\References\AutomaticUpdaterWPF.xml" />
+    <Content Include="StockSharp\References\Blackwood.Framework.dll" />
+    <Resource Include="StockSharp\References\Blackwood.Framework.XML" />
+    <Content Include="StockSharp\References\CBWMessages.dll" />
+    <Content Include="StockSharp\References\ClrPatch.dll" />
+    <Content Include="StockSharp\References\CommLib.dll" />
+    <Resource Include="StockSharp\References\CommLib.xml" />
+    <Content Include="StockSharp\References\DotNetDBF.dll" />
+    <Resource Include="StockSharp\References\DotNetDBF.xml" />
+    <Content Include="StockSharp\References\Ecng.Collections.dll" />
+    <Content Include="StockSharp\References\Ecng.Common.dll" />
+    <Content Include="StockSharp\References\Ecng.ComponentModel.dll" />
+    <Content Include="StockSharp\References\Ecng.Configuration.dll" />
+    <Content Include="StockSharp\References\Ecng.Data.dll" />
+    <Content Include="StockSharp\References\Ecng.Data.Providers.dll" />
+    <Content Include="StockSharp\References\Ecng.Interop.dll" />
+    <Content Include="StockSharp\References\Ecng.Net.dll" />
+    <Content Include="StockSharp\References\Ecng.Reflection.Aspects.dll" />
+    <Content Include="StockSharp\References\Ecng.Reflection.dll" />
+    <Content Include="StockSharp\References\Ecng.Security.dll" />
+    <Content Include="StockSharp\References\Ecng.Serialization.dll" />
+    <Content Include="StockSharp\References\Ecng.Serialization.FieldFactories.dll" />
+    <Content Include="StockSharp\References\Ecng.Transactions.dll" />
+    <Content Include="StockSharp\References\Ecng.UnitTesting.dll" />
+    <Content Include="StockSharp\References\Ecng.Web.dll" />
+    <Content Include="StockSharp\References\Ecng.Xaml.dll" />
+    <Content Include="StockSharp\References\Google.GData.AccessControl.dll" />
+    <Content Include="StockSharp\References\Google.GData.Calendar.dll" />
+    <Content Include="StockSharp\References\Google.GData.Client.dll" />
+    <Content Include="StockSharp\References\Google.GData.Extensions.dll" />
+    <Content Include="StockSharp\References\Hardcodet.Wpf.GenericTreeView.dll" />
+    <Resource Include="StockSharp\References\Hardcodet.Wpf.GenericTreeView.xml" />
+    <Content Include="StockSharp\References\HtmlAgilityPack.dll" />
+    <Resource Include="StockSharp\References\HtmlAgilityPack.XML" />
+    <Content Include="StockSharp\References\INIFileParser.dll" />
+    <Resource Include="StockSharp\References\INIFileParser.XML" />
+    <Content Include="StockSharp\References\Interop.ADLite.dll" />
+    <Content Include="StockSharp\References\Interop.P2ClientGateMTA32.dll" />
+    <Content Include="StockSharp\References\Interop.P2ClientGateMTA64.dll" />
+    <Content Include="StockSharp\References\Interop.StClientLib.dll" />
+    <Content Include="StockSharp\References\Interop.TEClientLib.dll" />
+    <Content Include="StockSharp\References\Ionic.Zip.dll" />
+    <Content Include="StockSharp\References\libalglib.dll" />
+    <Content Include="StockSharp\References\LmaxClientLibrary.dll" />
+    <Resource Include="StockSharp\References\LmaxClientLibrary.XML" />
+    <Content Include="StockSharp\References\log4net.dll" />
+    <Resource Include="StockSharp\References\log4net.xml" />
+    <Content Include="StockSharp\References\LumiSoft.Net.dll" />
+    <Resource Include="StockSharp\References\LumiSoft.Net.xml" />
+    <Content Include="StockSharp\References\ManagedWinapi.dll" />
+    <Content Include="StockSharp\References\Messages.dll" />
+    <Content Include="StockSharp\References\Microsoft.Practices.EnterpriseLibrary.Caching.dll" />
+    <Resource Include="StockSharp\References\Microsoft.Practices.EnterpriseLibrary.Caching.xml" />
+    <Content Include="StockSharp\References\Microsoft.Practices.EnterpriseLibrary.Common.dll" />
+    <Resource Include="StockSharp\References\Microsoft.Practices.EnterpriseLibrary.Common.xml" />
+    <Content Include="StockSharp\References\Microsoft.Practices.EnterpriseLibrary.Logging.dll" />
+    <Resource Include="StockSharp\References\Microsoft.Practices.EnterpriseLibrary.Logging.xml" />
+    <Content Include="StockSharp\References\Microsoft.Practices.EnterpriseLibrary.Security.Cryptography.dll" />
+    <Resource Include="StockSharp\References\Microsoft.Practices.EnterpriseLibrary.Security.Cryptography.xml" />
+    <Content Include="StockSharp\References\Microsoft.Practices.ServiceLocation.dll" />
+    <Resource Include="StockSharp\References\Microsoft.Practices.ServiceLocation.xml" />
+    <Content Include="StockSharp\References\Microsoft.Practices.Unity.Configuration.dll" />
+    <Resource Include="StockSharp\References\Microsoft.Practices.Unity.Configuration.xml" />
+    <Content Include="StockSharp\References\Microsoft.Practices.Unity.dll" />
+    <Content Include="StockSharp\References\Microsoft.Practices.Unity.Interception.dll" />
+    <Resource Include="StockSharp\References\Microsoft.Practices.Unity.Interception.xml" />
+    <Resource Include="StockSharp\References\Microsoft.Practices.Unity.xml" />
+    <Content Include="StockSharp\References\NCalc.dll" />
+    <Content Include="StockSharp\References\NDde.dll" />
+    <Content Include="StockSharp\References\NPOI.dll" />
+    <Content Include="StockSharp\References\Ookii.Dialogs.Wpf.dll" />
+    <Resource Include="StockSharp\References\Ookii.Dialogs.Wpf.XML" />
+    <Content Include="StockSharp\References\PowerCollections.dll" />
+    <Resource Include="StockSharp\References\PowerCollections.XML" />
+    <Content Include="StockSharp\References\ProtoSharp.Core.dll" />
+    <Content Include="StockSharp\References\QuickFix.dll" />
+    <Content Include="StockSharp\References\RestSharp.dll" />
+    <Resource Include="StockSharp\References\RestSharp.xml" />
+    <Content Include="StockSharp\References\SmartFormat.dll" />
+    <Content Include="StockSharp\References\StockSharp.AlfaDirect.dll" />
+    <Resource Include="StockSharp\References\StockSharp.AlfaDirect.xml" />
+    <Content Include="StockSharp\References\StockSharp.Algo.dll" />
+    <Resource Include="StockSharp\References\StockSharp.Algo.xml" />
+    <Content Include="StockSharp\References\StockSharp.Blackwood.dll" />
+    <Resource Include="StockSharp\References\StockSharp.Blackwood.xml" />
+    <Content Include="StockSharp\References\StockSharp.BusinessEntities.dll" />
+    <Resource Include="StockSharp\References\StockSharp.BusinessEntities.xml" />
+    <Content Include="StockSharp\References\StockSharp.Community.dll" />
+    <Resource Include="StockSharp\References\StockSharp.Community.xml" />
+    <Content Include="StockSharp\References\StockSharp.ETrade.dll" />
+    <Resource Include="StockSharp\References\StockSharp.ETrade.xml" />
+    <Resource Include="StockSharp\References\stocksharp.ico" />
+    <Content Include="StockSharp\References\StockSharp.InteractiveBrokers.dll" />
+    <Resource Include="StockSharp\References\StockSharp.InteractiveBrokers.xml" />
+    <Content Include="StockSharp\References\StockSharp.LMAX.dll" />
+    <Resource Include="StockSharp\References\StockSharp.LMAX.xml" />
+    <Content Include="StockSharp\References\StockSharp.Logging.dll" />
+    <Resource Include="StockSharp\References\StockSharp.Logging.xml" />
+    <Content Include="StockSharp\References\StockSharp.MatLab.dll" />
+    <Resource Include="StockSharp\References\StockSharp.MatLab.xml" />
+    <Content Include="StockSharp\References\StockSharp.OEC.dll" />
+    <Resource Include="StockSharp\References\StockSharp.OEC.xml" />
+    <Content Include="StockSharp\References\StockSharp.Plaza.dll" />
+    <Resource Include="StockSharp\References\StockSharp.Plaza.xml" />
+    <Content Include="StockSharp\References\StockSharp.Quik.dll" />
+    <Content Include="StockSharp\References\StockSharp.Quik.Fix.dll" />
+    <Resource Include="StockSharp\References\StockSharp.Quik.Fix.xml" />
+    <Resource Include="StockSharp\References\StockSharp.Quik.xml" />
+    <Content Include="StockSharp\References\StockSharp.Smart.dll" />
+    <Resource Include="StockSharp\References\StockSharp.Smart.xml" />
+    <Content Include="StockSharp\References\StockSharp.Transaq.dll" />
+    <Resource Include="StockSharp\References\StockSharp.Transaq.xml" />
+    <Content Include="StockSharp\References\StockSharp.Xaml.dll" />
+    <Resource Include="StockSharp\References\StockSharp.Xaml.xml" />
+    <Content Include="StockSharp\References\Types.dll" />
+    <Content Include="StockSharp\References\Xceed.Wpf.Toolkit.dll" />
+    <Content Include="StockSharp\References\zlib.net.dll" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

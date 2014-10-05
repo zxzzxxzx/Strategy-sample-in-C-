@@ -1,0 +1,467 @@
+C:\TFS2012\ConcurrentSQL\RoboGISMO\Quik\bin\Debug\RoboGISMO.exe.config
+C:\TFS2012\ConcurrentSQL\RoboGISMO\Quik\obj\Debug\RoboGISMO.exe
+C:\TFS2012\ConcurrentSQL\RoboGISMO\Quik\obj\Debug\RoboGISMO.pdb
+C:\TFS2012\ConcurrentSQL\RoboGISMO\Quik\bin\Debug\RoboGISMO.exe
+C:\TFS2012\ConcurrentSQL\RoboGISMO\Quik\bin\Debug\RoboGISMO.pdb
+C:\TFS2012\ConcurrentSQL\RoboGISMO\Quik\bin\Debug\Ecng.Collections.dll
+C:\TFS2012\ConcurrentSQL\RoboGISMO\Quik\bin\Debug\Ecng.Common.dll
+C:\TFS2012\ConcurrentSQL\RoboGISMO\Quik\bin\Debug\Ecng.ComponentModel.dll
+C:\TFS2012\ConcurrentSQL\RoboGISMO\Quik\bin\Debug\Ecng.Serialization.dll
+C:\TFS2012\ConcurrentSQL\RoboGISMO\Quik\bin\Debug\Ecng.Xaml.dll
+C:\TFS2012\ConcurrentSQL\RoboGISMO\Quik\bin\Debug\StockSharp.Algo.dll
+C:\TFS2012\ConcurrentSQL\RoboGISMO\Quik\bin\Debug\StockSharp.BusinessEntities.dll
+C:\TFS2012\ConcurrentSQL\RoboGISMO\Quik\bin\Debug\StockSharp.Logging.dll
+C:\TFS2012\ConcurrentSQL\RoboGISMO\Quik\bin\Debug\StockSharp.Quik.dll
+C:\TFS2012\ConcurrentSQL\RoboGISMO\Quik\bin\Debug\StockSharp.Xaml.dll
+C:\TFS2012\ConcurrentSQL\RoboGISMO\Quik\bin\Debug\Xceed.Wpf.Toolkit.dll
+C:\TFS2012\ConcurrentSQL\RoboGISMO\Quik\bin\Debug\PowerCollections.dll
+C:\TFS2012\ConcurrentSQL\RoboGISMO\Quik\bin\Debug\SmartFormat.dll
+C:\TFS2012\ConcurrentSQL\RoboGISMO\Quik\bin\Debug\Ecng.Reflection.dll
+C:\TFS2012\ConcurrentSQL\RoboGISMO\Quik\bin\Debug\Ecng.Configuration.dll
+C:\TFS2012\ConcurrentSQL\RoboGISMO\Quik\bin\Debug\ClrPatch.dll
+C:\TFS2012\ConcurrentSQL\RoboGISMO\Quik\bin\Debug\Ecng.Interop.dll
+C:\TFS2012\ConcurrentSQL\RoboGISMO\Quik\bin\Debug\Ecng.Data.dll
+C:\TFS2012\ConcurrentSQL\RoboGISMO\Quik\bin\Debug\StockSharp.Community.dll
+C:\TFS2012\ConcurrentSQL\RoboGISMO\Quik\bin\Debug\HtmlAgilityPack.dll
+C:\TFS2012\ConcurrentSQL\RoboGISMO\Quik\bin\Debug\Ecng.Security.dll
+C:\TFS2012\ConcurrentSQL\RoboGISMO\Quik\bin\Debug\LumiSoft.Net.dll
+C:\TFS2012\ConcurrentSQL\RoboGISMO\Quik\bin\Debug\DotNetDBF.dll
+C:\TFS2012\ConcurrentSQL\RoboGISMO\Quik\bin\Debug\libalglib.dll
+C:\TFS2012\ConcurrentSQL\RoboGISMO\Quik\bin\Debug\Ecng.Net.dll
+C:\TFS2012\ConcurrentSQL\RoboGISMO\Quik\bin\Debug\Ionic.Zip.dll
+C:\TFS2012\ConcurrentSQL\RoboGISMO\Quik\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Security.Cryptography.dll
+C:\TFS2012\ConcurrentSQL\RoboGISMO\Quik\bin\Debug\Ecng.Serialization.FieldFactories.dll
+C:\TFS2012\ConcurrentSQL\RoboGISMO\Quik\bin\Debug\NDde.dll
+C:\TFS2012\ConcurrentSQL\RoboGISMO\Quik\bin\Debug\ManagedWinapi.dll
+C:\TFS2012\ConcurrentSQL\RoboGISMO\Quik\bin\Debug\Ookii.Dialogs.Wpf.dll
+C:\TFS2012\ConcurrentSQL\RoboGISMO\Quik\bin\Debug\log4net.dll
+C:\TFS2012\ConcurrentSQL\RoboGISMO\Quik\bin\Debug\Google.GData.Calendar.dll
+C:\TFS2012\ConcurrentSQL\RoboGISMO\Quik\bin\Debug\Google.GData.Client.dll
+C:\TFS2012\ConcurrentSQL\RoboGISMO\Quik\bin\Debug\Google.GData.Extensions.dll
+C:\TFS2012\ConcurrentSQL\RoboGISMO\Quik\bin\Debug\Abt.Controls.SciChart.Wpf.dll
+C:\TFS2012\ConcurrentSQL\RoboGISMO\Quik\bin\Debug\Hardcodet.Wpf.GenericTreeView.dll
+C:\TFS2012\ConcurrentSQL\RoboGISMO\Quik\bin\Debug\Microsoft.Practices.Unity.dll
+C:\TFS2012\ConcurrentSQL\RoboGISMO\Quik\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\TFS2012\ConcurrentSQL\RoboGISMO\Quik\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+C:\TFS2012\ConcurrentSQL\RoboGISMO\Quik\bin\Debug\NPOI.dll
+C:\TFS2012\ConcurrentSQL\RoboGISMO\Quik\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Caching.dll
+C:\TFS2012\ConcurrentSQL\RoboGISMO\Quik\bin\Debug\Ecng.Transactions.dll
+C:\TFS2012\ConcurrentSQL\RoboGISMO\Quik\bin\Debug\Ecng.Web.dll
+C:\TFS2012\ConcurrentSQL\RoboGISMO\Quik\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\TFS2012\ConcurrentSQL\RoboGISMO\Quik\bin\Debug\Google.GData.AccessControl.dll
+C:\TFS2012\ConcurrentSQL\RoboGISMO\Quik\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+C:\TFS2012\ConcurrentSQL\RoboGISMO\Quik\bin\Debug\StockSharp.Algo.xml
+C:\TFS2012\ConcurrentSQL\RoboGISMO\Quik\bin\Debug\StockSharp.BusinessEntities.xml
+C:\TFS2012\ConcurrentSQL\RoboGISMO\Quik\bin\Debug\StockSharp.Quik.xml
+C:\TFS2012\ConcurrentSQL\RoboGISMO\Quik\bin\Debug\StockSharp.Logging.xml
+C:\TFS2012\ConcurrentSQL\RoboGISMO\Quik\bin\Debug\StockSharp.Xaml.xml
+C:\TFS2012\ConcurrentSQL\RoboGISMO\Quik\bin\Debug\PowerCollections.xml
+C:\TFS2012\ConcurrentSQL\RoboGISMO\Quik\bin\Debug\StockSharp.Community.xml
+C:\TFS2012\ConcurrentSQL\RoboGISMO\Quik\bin\Debug\HtmlAgilityPack.xml
+C:\TFS2012\ConcurrentSQL\RoboGISMO\Quik\bin\Debug\LumiSoft.Net.xml
+C:\TFS2012\ConcurrentSQL\RoboGISMO\Quik\bin\Debug\DotNetDBF.xml
+C:\TFS2012\ConcurrentSQL\RoboGISMO\Quik\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Security.Cryptography.xml
+C:\TFS2012\ConcurrentSQL\RoboGISMO\Quik\bin\Debug\Ookii.Dialogs.Wpf.xml
+C:\TFS2012\ConcurrentSQL\RoboGISMO\Quik\bin\Debug\log4net.xml
+C:\TFS2012\ConcurrentSQL\RoboGISMO\Quik\bin\Debug\Abt.Controls.SciChart.Wpf.xml
+C:\TFS2012\ConcurrentSQL\RoboGISMO\Quik\bin\Debug\Hardcodet.Wpf.GenericTreeView.xml
+C:\TFS2012\ConcurrentSQL\RoboGISMO\Quik\bin\Debug\Microsoft.Practices.Unity.xml
+C:\TFS2012\ConcurrentSQL\RoboGISMO\Quik\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\TFS2012\ConcurrentSQL\RoboGISMO\Quik\bin\Debug\Microsoft.Practices.Unity.Configuration.xml
+C:\TFS2012\ConcurrentSQL\RoboGISMO\Quik\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Caching.xml
+C:\TFS2012\ConcurrentSQL\RoboGISMO\Quik\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.xml
+C:\TFS2012\ConcurrentSQL\RoboGISMO\Quik\bin\Debug\Microsoft.Practices.Unity.Interception.xml
+C:\TFS2012\ConcurrentSQL\RoboGISMO\Quik\obj\Debug\QuikGISMO.csprojResolveAssemblyReference.cache
+C:\TFS2012\ConcurrentSQL\RoboGISMO\Quik\obj\Debug\MainWindow.baml
+C:\TFS2012\ConcurrentSQL\RoboGISMO\Quik\obj\Debug\MyTradesWindow.baml
+C:\TFS2012\ConcurrentSQL\RoboGISMO\Quik\obj\Debug\NewOrderWindow.baml
+C:\TFS2012\ConcurrentSQL\RoboGISMO\Quik\obj\Debug\NewStopOrderWindow.baml
+C:\TFS2012\ConcurrentSQL\RoboGISMO\Quik\obj\Debug\OrdersWindow.baml
+C:\TFS2012\ConcurrentSQL\RoboGISMO\Quik\obj\Debug\PortfoliosWindow.baml
+C:\TFS2012\ConcurrentSQL\RoboGISMO\Quik\obj\Debug\PositionsWindow.baml
+C:\TFS2012\ConcurrentSQL\RoboGISMO\Quik\obj\Debug\QuotesWindow.baml
+C:\TFS2012\ConcurrentSQL\RoboGISMO\Quik\obj\Debug\SecuritiesWindow.baml
+C:\TFS2012\ConcurrentSQL\RoboGISMO\Quik\obj\Debug\StopOrderWindow.baml
+C:\TFS2012\ConcurrentSQL\RoboGISMO\Quik\obj\Debug\Strategy.baml
+C:\TFS2012\ConcurrentSQL\RoboGISMO\Quik\obj\Debug\TradesWindow.baml
+C:\TFS2012\ConcurrentSQL\RoboGISMO\Quik\obj\Debug\App.baml
+C:\TFS2012\ConcurrentSQL\RoboGISMO\Quik\obj\Debug\MainWindow.g.cs
+C:\TFS2012\ConcurrentSQL\RoboGISMO\Quik\obj\Debug\MyTradesWindow.g.cs
+C:\TFS2012\ConcurrentSQL\RoboGISMO\Quik\obj\Debug\NewOrderWindow.g.cs
+C:\TFS2012\ConcurrentSQL\RoboGISMO\Quik\obj\Debug\NewStopOrderWindow.g.cs
+C:\TFS2012\ConcurrentSQL\RoboGISMO\Quik\obj\Debug\OrdersWindow.g.cs
+C:\TFS2012\ConcurrentSQL\RoboGISMO\Quik\obj\Debug\PortfoliosWindow.g.cs
+C:\TFS2012\ConcurrentSQL\RoboGISMO\Quik\obj\Debug\PositionsWindow.g.cs
+C:\TFS2012\ConcurrentSQL\RoboGISMO\Quik\obj\Debug\QuotesWindow.g.cs
+C:\TFS2012\ConcurrentSQL\RoboGISMO\Quik\obj\Debug\SecuritiesWindow.g.cs
+C:\TFS2012\ConcurrentSQL\RoboGISMO\Quik\obj\Debug\StopOrderWindow.g.cs
+C:\TFS2012\ConcurrentSQL\RoboGISMO\Quik\obj\Debug\Strategy.g.cs
+C:\TFS2012\ConcurrentSQL\RoboGISMO\Quik\obj\Debug\TradesWindow.g.cs
+C:\TFS2012\ConcurrentSQL\RoboGISMO\Quik\obj\Debug\App.g.cs
+C:\TFS2012\ConcurrentSQL\RoboGISMO\Quik\obj\Debug\RoboGISMO_Content.g.cs
+C:\TFS2012\ConcurrentSQL\RoboGISMO\Quik\obj\Debug\RoboGISMO_MarkupCompile.cache
+C:\TFS2012\ConcurrentSQL\RoboGISMO\Quik\obj\Debug\RoboGISMO.g.resources
+C:\TFS2012\ConcurrentSQL\RoboGISMO\Quik\obj\Debug\RoboGISMO.Properties.Resources.resources
+C:\TFS2012\ConcurrentSQL\RoboGISMO\Quik\obj\Debug\QuikGISMO.csproj.GenerateResource.Cache
+C:\TFS2012\ConcurrentSQL\RoboGISMO\Quik\bin\Debug\Waves\AG_Dynk.wav
+C:\TFS2012\ConcurrentSQL\RoboGISMO\Quik\bin\Debug\Waves\AG_Instr_Del.wav
+C:\TFS2012\ConcurrentSQL\RoboGISMO\Quik\bin\Debug\Waves\AG_Kuiq.wav
+C:\TFS2012\ConcurrentSQL\RoboGISMO\Quik\bin\Debug\Waves\AutoChase.wav
+C:\TFS2012\ConcurrentSQL\RoboGISMO\Quik\bin\Debug\Waves\connect.wav
+C:\TFS2012\ConcurrentSQL\RoboGISMO\Quik\bin\Debug\Waves\Connected.wav
+C:\TFS2012\ConcurrentSQL\RoboGISMO\Quik\bin\Debug\Waves\ConnectionFault.wav
+C:\TFS2012\ConcurrentSQL\RoboGISMO\Quik\bin\Debug\Waves\ConnectionLost.wav
+C:\TFS2012\ConcurrentSQL\RoboGISMO\Quik\bin\Debug\Waves\ir_begin.wav
+C:\TFS2012\ConcurrentSQL\RoboGISMO\Quik\bin\Debug\Waves\ir_end.wav
+C:\TFS2012\ConcurrentSQL\RoboGISMO\Quik\bin\Debug\Waves\Windows Pop-up Blocked.wav
+G:\RU LICENSE\GISMO project\Quik\bin\Debug\RoboGISMO.exe.config
+G:\RU LICENSE\GISMO project\Quik\obj\Debug\RoboGISMO.exe
+G:\RU LICENSE\GISMO project\Quik\obj\Debug\RoboGISMO.pdb
+G:\RU LICENSE\GISMO project\Quik\bin\Debug\Waves\AG_Dynk.wav
+G:\RU LICENSE\GISMO project\Quik\bin\Debug\Waves\AG_Instr_Del.wav
+G:\RU LICENSE\GISMO project\Quik\bin\Debug\Waves\AG_Kuiq.wav
+G:\RU LICENSE\GISMO project\Quik\bin\Debug\Waves\AutoChase.wav
+G:\RU LICENSE\GISMO project\Quik\bin\Debug\Waves\connect.wav
+G:\RU LICENSE\GISMO project\Quik\bin\Debug\Waves\Connected.wav
+G:\RU LICENSE\GISMO project\Quik\bin\Debug\Waves\ConnectionFault.wav
+G:\RU LICENSE\GISMO project\Quik\bin\Debug\Waves\ConnectionLost.wav
+G:\RU LICENSE\GISMO project\Quik\bin\Debug\Waves\ir_begin.wav
+G:\RU LICENSE\GISMO project\Quik\bin\Debug\Waves\ir_end.wav
+G:\RU LICENSE\GISMO project\Quik\bin\Debug\Waves\Windows Pop-up Blocked.wav
+G:\RU LICENSE\GISMO project\Quik\bin\Debug\RoboGISMO.exe
+G:\RU LICENSE\GISMO project\Quik\bin\Debug\RoboGISMO.pdb
+G:\RU LICENSE\GISMO project\Quik\bin\Debug\Ecng.Collections.dll
+G:\RU LICENSE\GISMO project\Quik\bin\Debug\Ecng.Common.dll
+G:\RU LICENSE\GISMO project\Quik\bin\Debug\Ecng.ComponentModel.dll
+G:\RU LICENSE\GISMO project\Quik\bin\Debug\Ecng.Serialization.dll
+G:\RU LICENSE\GISMO project\Quik\bin\Debug\Ecng.Xaml.dll
+G:\RU LICENSE\GISMO project\Quik\bin\Debug\PowerCollections.dll
+G:\RU LICENSE\GISMO project\Quik\bin\Debug\StockSharp.Algo.dll
+G:\RU LICENSE\GISMO project\Quik\bin\Debug\StockSharp.BusinessEntities.dll
+G:\RU LICENSE\GISMO project\Quik\bin\Debug\StockSharp.Logging.dll
+G:\RU LICENSE\GISMO project\Quik\bin\Debug\StockSharp.Quik.dll
+G:\RU LICENSE\GISMO project\Quik\bin\Debug\StockSharp.Xaml.dll
+G:\RU LICENSE\GISMO project\Quik\bin\Debug\Xceed.Wpf.Toolkit.dll
+G:\RU LICENSE\GISMO project\Quik\bin\Debug\SmartFormat.dll
+G:\RU LICENSE\GISMO project\Quik\bin\Debug\Ecng.Reflection.dll
+G:\RU LICENSE\GISMO project\Quik\bin\Debug\Ecng.Configuration.dll
+G:\RU LICENSE\GISMO project\Quik\bin\Debug\ClrPatch.dll
+G:\RU LICENSE\GISMO project\Quik\bin\Debug\Ecng.Interop.dll
+G:\RU LICENSE\GISMO project\Quik\bin\Debug\Ecng.Data.dll
+G:\RU LICENSE\GISMO project\Quik\bin\Debug\StockSharp.Community.dll
+G:\RU LICENSE\GISMO project\Quik\bin\Debug\HtmlAgilityPack.dll
+G:\RU LICENSE\GISMO project\Quik\bin\Debug\Ecng.Security.dll
+G:\RU LICENSE\GISMO project\Quik\bin\Debug\LumiSoft.Net.dll
+G:\RU LICENSE\GISMO project\Quik\bin\Debug\DotNetDBF.dll
+G:\RU LICENSE\GISMO project\Quik\bin\Debug\libalglib.dll
+G:\RU LICENSE\GISMO project\Quik\bin\Debug\Ecng.Net.dll
+G:\RU LICENSE\GISMO project\Quik\bin\Debug\Ionic.Zip.dll
+G:\RU LICENSE\GISMO project\Quik\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Security.Cryptography.dll
+G:\RU LICENSE\GISMO project\Quik\bin\Debug\Ecng.Serialization.FieldFactories.dll
+G:\RU LICENSE\GISMO project\Quik\bin\Debug\NDde.dll
+G:\RU LICENSE\GISMO project\Quik\bin\Debug\ManagedWinapi.dll
+G:\RU LICENSE\GISMO project\Quik\bin\Debug\Ookii.Dialogs.Wpf.dll
+G:\RU LICENSE\GISMO project\Quik\bin\Debug\log4net.dll
+G:\RU LICENSE\GISMO project\Quik\bin\Debug\Google.GData.Calendar.dll
+G:\RU LICENSE\GISMO project\Quik\bin\Debug\Google.GData.Client.dll
+G:\RU LICENSE\GISMO project\Quik\bin\Debug\Google.GData.Extensions.dll
+G:\RU LICENSE\GISMO project\Quik\bin\Debug\Abt.Controls.SciChart.Wpf.dll
+G:\RU LICENSE\GISMO project\Quik\bin\Debug\Hardcodet.Wpf.GenericTreeView.dll
+G:\RU LICENSE\GISMO project\Quik\bin\Debug\Microsoft.Practices.Unity.dll
+G:\RU LICENSE\GISMO project\Quik\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+G:\RU LICENSE\GISMO project\Quik\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+G:\RU LICENSE\GISMO project\Quik\bin\Debug\NPOI.dll
+G:\RU LICENSE\GISMO project\Quik\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Caching.dll
+G:\RU LICENSE\GISMO project\Quik\bin\Debug\Ecng.Transactions.dll
+G:\RU LICENSE\GISMO project\Quik\bin\Debug\Ecng.Web.dll
+G:\RU LICENSE\GISMO project\Quik\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+G:\RU LICENSE\GISMO project\Quik\bin\Debug\Google.GData.AccessControl.dll
+G:\RU LICENSE\GISMO project\Quik\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+G:\RU LICENSE\GISMO project\Quik\bin\Debug\PowerCollections.xml
+G:\RU LICENSE\GISMO project\Quik\bin\Debug\StockSharp.Algo.xml
+G:\RU LICENSE\GISMO project\Quik\bin\Debug\StockSharp.BusinessEntities.xml
+G:\RU LICENSE\GISMO project\Quik\bin\Debug\StockSharp.Quik.xml
+G:\RU LICENSE\GISMO project\Quik\bin\Debug\StockSharp.Logging.xml
+G:\RU LICENSE\GISMO project\Quik\bin\Debug\StockSharp.Xaml.xml
+G:\RU LICENSE\GISMO project\Quik\bin\Debug\StockSharp.Community.xml
+G:\RU LICENSE\GISMO project\Quik\bin\Debug\HtmlAgilityPack.xml
+G:\RU LICENSE\GISMO project\Quik\bin\Debug\LumiSoft.Net.xml
+G:\RU LICENSE\GISMO project\Quik\bin\Debug\DotNetDBF.xml
+G:\RU LICENSE\GISMO project\Quik\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Security.Cryptography.xml
+G:\RU LICENSE\GISMO project\Quik\bin\Debug\Ookii.Dialogs.Wpf.xml
+G:\RU LICENSE\GISMO project\Quik\bin\Debug\log4net.xml
+G:\RU LICENSE\GISMO project\Quik\bin\Debug\Abt.Controls.SciChart.Wpf.xml
+G:\RU LICENSE\GISMO project\Quik\bin\Debug\Hardcodet.Wpf.GenericTreeView.xml
+G:\RU LICENSE\GISMO project\Quik\bin\Debug\Microsoft.Practices.Unity.xml
+G:\RU LICENSE\GISMO project\Quik\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+G:\RU LICENSE\GISMO project\Quik\bin\Debug\Microsoft.Practices.Unity.Configuration.xml
+G:\RU LICENSE\GISMO project\Quik\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Caching.xml
+G:\RU LICENSE\GISMO project\Quik\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.xml
+G:\RU LICENSE\GISMO project\Quik\bin\Debug\Microsoft.Practices.Unity.Interception.xml
+G:\RU LICENSE\GISMO project\Quik\obj\Debug\QuikGISMO.csprojResolveAssemblyReference.cache
+G:\RU LICENSE\GISMO project\Quik\obj\Debug\MainWindow.baml
+G:\RU LICENSE\GISMO project\Quik\obj\Debug\MyTradesWindow.baml
+G:\RU LICENSE\GISMO project\Quik\obj\Debug\NewOrderWindow.baml
+G:\RU LICENSE\GISMO project\Quik\obj\Debug\NewStopOrderWindow.baml
+G:\RU LICENSE\GISMO project\Quik\obj\Debug\OrdersWindow.baml
+G:\RU LICENSE\GISMO project\Quik\obj\Debug\PortfoliosWindow.baml
+G:\RU LICENSE\GISMO project\Quik\obj\Debug\PositionsWindow.baml
+G:\RU LICENSE\GISMO project\Quik\obj\Debug\QuotesWindow.baml
+G:\RU LICENSE\GISMO project\Quik\obj\Debug\SecuritiesWindow.baml
+G:\RU LICENSE\GISMO project\Quik\obj\Debug\StopOrderWindow.baml
+G:\RU LICENSE\GISMO project\Quik\obj\Debug\Strategy.baml
+G:\RU LICENSE\GISMO project\Quik\obj\Debug\TradesWindow.baml
+G:\RU LICENSE\GISMO project\Quik\obj\Debug\App.baml
+G:\RU LICENSE\GISMO project\Quik\obj\Debug\MainWindow.g.cs
+G:\RU LICENSE\GISMO project\Quik\obj\Debug\MyTradesWindow.g.cs
+G:\RU LICENSE\GISMO project\Quik\obj\Debug\NewOrderWindow.g.cs
+G:\RU LICENSE\GISMO project\Quik\obj\Debug\NewStopOrderWindow.g.cs
+G:\RU LICENSE\GISMO project\Quik\obj\Debug\OrdersWindow.g.cs
+G:\RU LICENSE\GISMO project\Quik\obj\Debug\PortfoliosWindow.g.cs
+G:\RU LICENSE\GISMO project\Quik\obj\Debug\PositionsWindow.g.cs
+G:\RU LICENSE\GISMO project\Quik\obj\Debug\QuotesWindow.g.cs
+G:\RU LICENSE\GISMO project\Quik\obj\Debug\SecuritiesWindow.g.cs
+G:\RU LICENSE\GISMO project\Quik\obj\Debug\StopOrderWindow.g.cs
+G:\RU LICENSE\GISMO project\Quik\obj\Debug\Strategy.g.cs
+G:\RU LICENSE\GISMO project\Quik\obj\Debug\TradesWindow.g.cs
+G:\RU LICENSE\GISMO project\Quik\obj\Debug\App.g.cs
+G:\RU LICENSE\GISMO project\Quik\obj\Debug\RoboGISMO_Content.g.cs
+G:\RU LICENSE\GISMO project\Quik\obj\Debug\RoboGISMO_MarkupCompile.cache
+G:\RU LICENSE\GISMO project\Quik\obj\Debug\RoboGISMO.g.resources
+G:\RU LICENSE\GISMO project\Quik\obj\Debug\RoboGISMO.Properties.Resources.resources
+G:\RU LICENSE\GISMO project\Quik\obj\Debug\QuikGISMO.csproj.GenerateResource.Cache
+E:\RU LICENSE\GISMO project\Quik\bin\Debug\RoboGISMO.exe.config
+E:\RU LICENSE\GISMO project\Quik\obj\Debug\RoboGISMO.exe
+E:\RU LICENSE\GISMO project\Quik\obj\Debug\RoboGISMO.pdb
+E:\RU LICENSE\GISMO project\Quik\bin\Debug\Waves\AG_Dynk.wav
+E:\RU LICENSE\GISMO project\Quik\bin\Debug\Waves\AG_Instr_Del.wav
+E:\RU LICENSE\GISMO project\Quik\bin\Debug\Waves\AG_Kuiq.wav
+E:\RU LICENSE\GISMO project\Quik\bin\Debug\Waves\AutoChase.wav
+E:\RU LICENSE\GISMO project\Quik\bin\Debug\Waves\connect.wav
+E:\RU LICENSE\GISMO project\Quik\bin\Debug\Waves\Connected.wav
+E:\RU LICENSE\GISMO project\Quik\bin\Debug\Waves\ConnectionFault.wav
+E:\RU LICENSE\GISMO project\Quik\bin\Debug\Waves\ConnectionLost.wav
+E:\RU LICENSE\GISMO project\Quik\bin\Debug\Waves\ir_begin.wav
+E:\RU LICENSE\GISMO project\Quik\bin\Debug\Waves\ir_end.wav
+E:\RU LICENSE\GISMO project\Quik\bin\Debug\Waves\Windows Pop-up Blocked.wav
+E:\RU LICENSE\GISMO project\Quik\bin\Debug\RoboGISMO.exe
+E:\RU LICENSE\GISMO project\Quik\bin\Debug\RoboGISMO.pdb
+E:\RU LICENSE\GISMO project\Quik\bin\Debug\Ecng.Collections.dll
+E:\RU LICENSE\GISMO project\Quik\bin\Debug\Ecng.Common.dll
+E:\RU LICENSE\GISMO project\Quik\bin\Debug\Ecng.ComponentModel.dll
+E:\RU LICENSE\GISMO project\Quik\bin\Debug\Ecng.Serialization.dll
+E:\RU LICENSE\GISMO project\Quik\bin\Debug\Ecng.Xaml.dll
+E:\RU LICENSE\GISMO project\Quik\bin\Debug\PowerCollections.dll
+E:\RU LICENSE\GISMO project\Quik\bin\Debug\StockSharp.Algo.dll
+E:\RU LICENSE\GISMO project\Quik\bin\Debug\StockSharp.BusinessEntities.dll
+E:\RU LICENSE\GISMO project\Quik\bin\Debug\StockSharp.Logging.dll
+E:\RU LICENSE\GISMO project\Quik\bin\Debug\StockSharp.Quik.dll
+E:\RU LICENSE\GISMO project\Quik\bin\Debug\StockSharp.Xaml.dll
+E:\RU LICENSE\GISMO project\Quik\bin\Debug\Xceed.Wpf.Toolkit.dll
+E:\RU LICENSE\GISMO project\Quik\bin\Debug\SmartFormat.dll
+E:\RU LICENSE\GISMO project\Quik\bin\Debug\Ecng.Reflection.dll
+E:\RU LICENSE\GISMO project\Quik\bin\Debug\Ecng.Configuration.dll
+E:\RU LICENSE\GISMO project\Quik\bin\Debug\ClrPatch.dll
+E:\RU LICENSE\GISMO project\Quik\bin\Debug\Ecng.Interop.dll
+E:\RU LICENSE\GISMO project\Quik\bin\Debug\Ecng.Data.dll
+E:\RU LICENSE\GISMO project\Quik\bin\Debug\StockSharp.Community.dll
+E:\RU LICENSE\GISMO project\Quik\bin\Debug\HtmlAgilityPack.dll
+E:\RU LICENSE\GISMO project\Quik\bin\Debug\Ecng.Security.dll
+E:\RU LICENSE\GISMO project\Quik\bin\Debug\LumiSoft.Net.dll
+E:\RU LICENSE\GISMO project\Quik\bin\Debug\DotNetDBF.dll
+E:\RU LICENSE\GISMO project\Quik\bin\Debug\libalglib.dll
+E:\RU LICENSE\GISMO project\Quik\bin\Debug\Ecng.Net.dll
+E:\RU LICENSE\GISMO project\Quik\bin\Debug\Ionic.Zip.dll
+E:\RU LICENSE\GISMO project\Quik\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Security.Cryptography.dll
+E:\RU LICENSE\GISMO project\Quik\bin\Debug\Ecng.Serialization.FieldFactories.dll
+E:\RU LICENSE\GISMO project\Quik\bin\Debug\NDde.dll
+E:\RU LICENSE\GISMO project\Quik\bin\Debug\ManagedWinapi.dll
+E:\RU LICENSE\GISMO project\Quik\bin\Debug\Ookii.Dialogs.Wpf.dll
+E:\RU LICENSE\GISMO project\Quik\bin\Debug\log4net.dll
+E:\RU LICENSE\GISMO project\Quik\bin\Debug\Google.GData.Calendar.dll
+E:\RU LICENSE\GISMO project\Quik\bin\Debug\Google.GData.Client.dll
+E:\RU LICENSE\GISMO project\Quik\bin\Debug\Google.GData.Extensions.dll
+E:\RU LICENSE\GISMO project\Quik\bin\Debug\Abt.Controls.SciChart.Wpf.dll
+E:\RU LICENSE\GISMO project\Quik\bin\Debug\Hardcodet.Wpf.GenericTreeView.dll
+E:\RU LICENSE\GISMO project\Quik\bin\Debug\Microsoft.Practices.Unity.dll
+E:\RU LICENSE\GISMO project\Quik\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+E:\RU LICENSE\GISMO project\Quik\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+E:\RU LICENSE\GISMO project\Quik\bin\Debug\NPOI.dll
+E:\RU LICENSE\GISMO project\Quik\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Caching.dll
+E:\RU LICENSE\GISMO project\Quik\bin\Debug\Ecng.Transactions.dll
+E:\RU LICENSE\GISMO project\Quik\bin\Debug\Ecng.Web.dll
+E:\RU LICENSE\GISMO project\Quik\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+E:\RU LICENSE\GISMO project\Quik\bin\Debug\Google.GData.AccessControl.dll
+E:\RU LICENSE\GISMO project\Quik\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+E:\RU LICENSE\GISMO project\Quik\bin\Debug\PowerCollections.xml
+E:\RU LICENSE\GISMO project\Quik\bin\Debug\StockSharp.Algo.xml
+E:\RU LICENSE\GISMO project\Quik\bin\Debug\StockSharp.BusinessEntities.xml
+E:\RU LICENSE\GISMO project\Quik\bin\Debug\StockSharp.Quik.xml
+E:\RU LICENSE\GISMO project\Quik\bin\Debug\StockSharp.Logging.xml
+E:\RU LICENSE\GISMO project\Quik\bin\Debug\StockSharp.Xaml.xml
+E:\RU LICENSE\GISMO project\Quik\bin\Debug\StockSharp.Community.xml
+E:\RU LICENSE\GISMO project\Quik\bin\Debug\HtmlAgilityPack.xml
+E:\RU LICENSE\GISMO project\Quik\bin\Debug\LumiSoft.Net.xml
+E:\RU LICENSE\GISMO project\Quik\bin\Debug\DotNetDBF.xml
+E:\RU LICENSE\GISMO project\Quik\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Security.Cryptography.xml
+E:\RU LICENSE\GISMO project\Quik\bin\Debug\Ookii.Dialogs.Wpf.xml
+E:\RU LICENSE\GISMO project\Quik\bin\Debug\log4net.xml
+E:\RU LICENSE\GISMO project\Quik\bin\Debug\Abt.Controls.SciChart.Wpf.xml
+E:\RU LICENSE\GISMO project\Quik\bin\Debug\Hardcodet.Wpf.GenericTreeView.xml
+E:\RU LICENSE\GISMO project\Quik\bin\Debug\Microsoft.Practices.Unity.xml
+E:\RU LICENSE\GISMO project\Quik\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+E:\RU LICENSE\GISMO project\Quik\bin\Debug\Microsoft.Practices.Unity.Configuration.xml
+E:\RU LICENSE\GISMO project\Quik\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Caching.xml
+E:\RU LICENSE\GISMO project\Quik\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.xml
+E:\RU LICENSE\GISMO project\Quik\bin\Debug\Microsoft.Practices.Unity.Interception.xml
+E:\RU LICENSE\GISMO project\Quik\obj\Debug\QuikGISMO.csprojResolveAssemblyReference.cache
+E:\RU LICENSE\GISMO project\Quik\obj\Debug\MainWindow.baml
+E:\RU LICENSE\GISMO project\Quik\obj\Debug\MyTradesWindow.baml
+E:\RU LICENSE\GISMO project\Quik\obj\Debug\NewOrderWindow.baml
+E:\RU LICENSE\GISMO project\Quik\obj\Debug\NewStopOrderWindow.baml
+E:\RU LICENSE\GISMO project\Quik\obj\Debug\OrdersWindow.baml
+E:\RU LICENSE\GISMO project\Quik\obj\Debug\PortfoliosWindow.baml
+E:\RU LICENSE\GISMO project\Quik\obj\Debug\PositionsWindow.baml
+E:\RU LICENSE\GISMO project\Quik\obj\Debug\QuotesWindow.baml
+E:\RU LICENSE\GISMO project\Quik\obj\Debug\SecuritiesWindow.baml
+E:\RU LICENSE\GISMO project\Quik\obj\Debug\StopOrderWindow.baml
+E:\RU LICENSE\GISMO project\Quik\obj\Debug\Strategy.baml
+E:\RU LICENSE\GISMO project\Quik\obj\Debug\TradesWindow.baml
+E:\RU LICENSE\GISMO project\Quik\obj\Debug\App.baml
+E:\RU LICENSE\GISMO project\Quik\obj\Debug\MainWindow.g.cs
+E:\RU LICENSE\GISMO project\Quik\obj\Debug\MyTradesWindow.g.cs
+E:\RU LICENSE\GISMO project\Quik\obj\Debug\NewOrderWindow.g.cs
+E:\RU LICENSE\GISMO project\Quik\obj\Debug\NewStopOrderWindow.g.cs
+E:\RU LICENSE\GISMO project\Quik\obj\Debug\OrdersWindow.g.cs
+E:\RU LICENSE\GISMO project\Quik\obj\Debug\PortfoliosWindow.g.cs
+E:\RU LICENSE\GISMO project\Quik\obj\Debug\PositionsWindow.g.cs
+E:\RU LICENSE\GISMO project\Quik\obj\Debug\QuotesWindow.g.cs
+E:\RU LICENSE\GISMO project\Quik\obj\Debug\SecuritiesWindow.g.cs
+E:\RU LICENSE\GISMO project\Quik\obj\Debug\StopOrderWindow.g.cs
+E:\RU LICENSE\GISMO project\Quik\obj\Debug\Strategy.g.cs
+E:\RU LICENSE\GISMO project\Quik\obj\Debug\TradesWindow.g.cs
+E:\RU LICENSE\GISMO project\Quik\obj\Debug\App.g.cs
+E:\RU LICENSE\GISMO project\Quik\obj\Debug\RoboGISMO_Content.g.cs
+E:\RU LICENSE\GISMO project\Quik\obj\Debug\RoboGISMO_MarkupCompile.cache
+E:\RU LICENSE\GISMO project\Quik\obj\Debug\RoboGISMO.g.resources
+E:\RU LICENSE\GISMO project\Quik\obj\Debug\RoboGISMO.Properties.Resources.resources
+E:\RU LICENSE\GISMO project\Quik\obj\Debug\QuikGISMO.csproj.GenerateResource.Cache
+C:\Users\Машульчик\Desktop\роботы\GISMO project\Quik\bin\Debug\RoboGISMO.exe.config
+C:\Users\Машульчик\Desktop\роботы\GISMO project\Quik\obj\Debug\RoboGISMO.exe
+C:\Users\Машульчик\Desktop\роботы\GISMO project\Quik\obj\Debug\RoboGISMO.pdb
+C:\Users\Машульчик\Desktop\роботы\GISMO project\Quik\bin\Debug\Waves\AG_Dynk.wav
+C:\Users\Машульчик\Desktop\роботы\GISMO project\Quik\bin\Debug\Waves\AG_Instr_Del.wav
+C:\Users\Машульчик\Desktop\роботы\GISMO project\Quik\bin\Debug\Waves\AG_Kuiq.wav
+C:\Users\Машульчик\Desktop\роботы\GISMO project\Quik\bin\Debug\Waves\AutoChase.wav
+C:\Users\Машульчик\Desktop\роботы\GISMO project\Quik\bin\Debug\Waves\connect.wav
+C:\Users\Машульчик\Desktop\роботы\GISMO project\Quik\bin\Debug\Waves\Connected.wav
+C:\Users\Машульчик\Desktop\роботы\GISMO project\Quik\bin\Debug\Waves\ConnectionFault.wav
+C:\Users\Машульчик\Desktop\роботы\GISMO project\Quik\bin\Debug\Waves\ConnectionLost.wav
+C:\Users\Машульчик\Desktop\роботы\GISMO project\Quik\bin\Debug\Waves\ir_begin.wav
+C:\Users\Машульчик\Desktop\роботы\GISMO project\Quik\bin\Debug\Waves\ir_end.wav
+C:\Users\Машульчик\Desktop\роботы\GISMO project\Quik\bin\Debug\Waves\Windows Pop-up Blocked.wav
+C:\Users\Машульчик\Desktop\роботы\GISMO project\Quik\bin\Debug\RoboGISMO.exe
+C:\Users\Машульчик\Desktop\роботы\GISMO project\Quik\bin\Debug\RoboGISMO.pdb
+C:\Users\Машульчик\Desktop\роботы\GISMO project\Quik\bin\Debug\Ecng.Collections.dll
+C:\Users\Машульчик\Desktop\роботы\GISMO project\Quik\bin\Debug\Ecng.Common.dll
+C:\Users\Машульчик\Desktop\роботы\GISMO project\Quik\bin\Debug\Ecng.ComponentModel.dll
+C:\Users\Машульчик\Desktop\роботы\GISMO project\Quik\bin\Debug\Ecng.Serialization.dll
+C:\Users\Машульчик\Desktop\роботы\GISMO project\Quik\bin\Debug\Ecng.Xaml.dll
+C:\Users\Машульчик\Desktop\роботы\GISMO project\Quik\bin\Debug\PowerCollections.dll
+C:\Users\Машульчик\Desktop\роботы\GISMO project\Quik\bin\Debug\StockSharp.Algo.dll
+C:\Users\Машульчик\Desktop\роботы\GISMO project\Quik\bin\Debug\StockSharp.BusinessEntities.dll
+C:\Users\Машульчик\Desktop\роботы\GISMO project\Quik\bin\Debug\StockSharp.Logging.dll
+C:\Users\Машульчик\Desktop\роботы\GISMO project\Quik\bin\Debug\StockSharp.Quik.dll
+C:\Users\Машульчик\Desktop\роботы\GISMO project\Quik\bin\Debug\StockSharp.Xaml.dll
+C:\Users\Машульчик\Desktop\роботы\GISMO project\Quik\bin\Debug\Xceed.Wpf.Toolkit.dll
+C:\Users\Машульчик\Desktop\роботы\GISMO project\Quik\bin\Debug\SmartFormat.dll
+C:\Users\Машульчик\Desktop\роботы\GISMO project\Quik\bin\Debug\Ecng.Reflection.dll
+C:\Users\Машульчик\Desktop\роботы\GISMO project\Quik\bin\Debug\Ecng.Configuration.dll
+C:\Users\Машульчик\Desktop\роботы\GISMO project\Quik\bin\Debug\ClrPatch.dll
+C:\Users\Машульчик\Desktop\роботы\GISMO project\Quik\bin\Debug\Ecng.Interop.dll
+C:\Users\Машульчик\Desktop\роботы\GISMO project\Quik\bin\Debug\Ecng.Data.dll
+C:\Users\Машульчик\Desktop\роботы\GISMO project\Quik\bin\Debug\StockSharp.Community.dll
+C:\Users\Машульчик\Desktop\роботы\GISMO project\Quik\bin\Debug\HtmlAgilityPack.dll
+C:\Users\Машульчик\Desktop\роботы\GISMO project\Quik\bin\Debug\Ecng.Security.dll
+C:\Users\Машульчик\Desktop\роботы\GISMO project\Quik\bin\Debug\LumiSoft.Net.dll
+C:\Users\Машульчик\Desktop\роботы\GISMO project\Quik\bin\Debug\DotNetDBF.dll
+C:\Users\Машульчик\Desktop\роботы\GISMO project\Quik\bin\Debug\libalglib.dll
+C:\Users\Машульчик\Desktop\роботы\GISMO project\Quik\bin\Debug\Ecng.Net.dll
+C:\Users\Машульчик\Desktop\роботы\GISMO project\Quik\bin\Debug\Ionic.Zip.dll
+C:\Users\Машульчик\Desktop\роботы\GISMO project\Quik\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Security.Cryptography.dll
+C:\Users\Машульчик\Desktop\роботы\GISMO project\Quik\bin\Debug\Ecng.Serialization.FieldFactories.dll
+C:\Users\Машульчик\Desktop\роботы\GISMO project\Quik\bin\Debug\NDde.dll
+C:\Users\Машульчик\Desktop\роботы\GISMO project\Quik\bin\Debug\ManagedWinapi.dll
+C:\Users\Машульчик\Desktop\роботы\GISMO project\Quik\bin\Debug\Ookii.Dialogs.Wpf.dll
+C:\Users\Машульчик\Desktop\роботы\GISMO project\Quik\bin\Debug\log4net.dll
+C:\Users\Машульчик\Desktop\роботы\GISMO project\Quik\bin\Debug\Google.GData.Calendar.dll
+C:\Users\Машульчик\Desktop\роботы\GISMO project\Quik\bin\Debug\Google.GData.Client.dll
+C:\Users\Машульчик\Desktop\роботы\GISMO project\Quik\bin\Debug\Google.GData.Extensions.dll
+C:\Users\Машульчик\Desktop\роботы\GISMO project\Quik\bin\Debug\Abt.Controls.SciChart.Wpf.dll
+C:\Users\Машульчик\Desktop\роботы\GISMO project\Quik\bin\Debug\Hardcodet.Wpf.GenericTreeView.dll
+C:\Users\Машульчик\Desktop\роботы\GISMO project\Quik\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\Машульчик\Desktop\роботы\GISMO project\Quik\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\Машульчик\Desktop\роботы\GISMO project\Quik\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+C:\Users\Машульчик\Desktop\роботы\GISMO project\Quik\bin\Debug\NPOI.dll
+C:\Users\Машульчик\Desktop\роботы\GISMO project\Quik\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Caching.dll
+C:\Users\Машульчик\Desktop\роботы\GISMO project\Quik\bin\Debug\Ecng.Transactions.dll
+C:\Users\Машульчик\Desktop\роботы\GISMO project\Quik\bin\Debug\Ecng.Web.dll
+C:\Users\Машульчик\Desktop\роботы\GISMO project\Quik\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Users\Машульчик\Desktop\роботы\GISMO project\Quik\bin\Debug\Google.GData.AccessControl.dll
+C:\Users\Машульчик\Desktop\роботы\GISMO project\Quik\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+C:\Users\Машульчик\Desktop\роботы\GISMO project\Quik\bin\Debug\PowerCollections.xml
+C:\Users\Машульчик\Desktop\роботы\GISMO project\Quik\bin\Debug\StockSharp.Algo.xml
+C:\Users\Машульчик\Desktop\роботы\GISMO project\Quik\bin\Debug\StockSharp.BusinessEntities.xml
+C:\Users\Машульчик\Desktop\роботы\GISMO project\Quik\bin\Debug\StockSharp.Quik.xml
+C:\Users\Машульчик\Desktop\роботы\GISMO project\Quik\bin\Debug\StockSharp.Logging.xml
+C:\Users\Машульчик\Desktop\роботы\GISMO project\Quik\bin\Debug\StockSharp.Xaml.xml
+C:\Users\Машульчик\Desktop\роботы\GISMO project\Quik\bin\Debug\StockSharp.Community.xml
+C:\Users\Машульчик\Desktop\роботы\GISMO project\Quik\bin\Debug\HtmlAgilityPack.xml
+C:\Users\Машульчик\Desktop\роботы\GISMO project\Quik\bin\Debug\LumiSoft.Net.xml
+C:\Users\Машульчик\Desktop\роботы\GISMO project\Quik\bin\Debug\DotNetDBF.xml
+C:\Users\Машульчик\Desktop\роботы\GISMO project\Quik\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Security.Cryptography.xml
+C:\Users\Машульчик\Desktop\роботы\GISMO project\Quik\bin\Debug\Ookii.Dialogs.Wpf.xml
+C:\Users\Машульчик\Desktop\роботы\GISMO project\Quik\bin\Debug\log4net.xml
+C:\Users\Машульчик\Desktop\роботы\GISMO project\Quik\bin\Debug\Abt.Controls.SciChart.Wpf.xml
+C:\Users\Машульчик\Desktop\роботы\GISMO project\Quik\bin\Debug\Hardcodet.Wpf.GenericTreeView.xml
+C:\Users\Машульчик\Desktop\роботы\GISMO project\Quik\bin\Debug\Microsoft.Practices.Unity.xml
+C:\Users\Машульчик\Desktop\роботы\GISMO project\Quik\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\Users\Машульчик\Desktop\роботы\GISMO project\Quik\bin\Debug\Microsoft.Practices.Unity.Configuration.xml
+C:\Users\Машульчик\Desktop\роботы\GISMO project\Quik\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Caching.xml
+C:\Users\Машульчик\Desktop\роботы\GISMO project\Quik\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.xml
+C:\Users\Машульчик\Desktop\роботы\GISMO project\Quik\bin\Debug\Microsoft.Practices.Unity.Interception.xml
+C:\Users\Машульчик\Desktop\роботы\GISMO project\Quik\obj\Debug\QuikGISMO.csprojResolveAssemblyReference.cache
+C:\Users\Машульчик\Desktop\роботы\GISMO project\Quik\obj\Debug\MainWindow.baml
+C:\Users\Машульчик\Desktop\роботы\GISMO project\Quik\obj\Debug\MyTradesWindow.baml
+C:\Users\Машульчик\Desktop\роботы\GISMO project\Quik\obj\Debug\NewOrderWindow.baml
+C:\Users\Машульчик\Desktop\роботы\GISMO project\Quik\obj\Debug\NewStopOrderWindow.baml
+C:\Users\Машульчик\Desktop\роботы\GISMO project\Quik\obj\Debug\OrdersWindow.baml
+C:\Users\Машульчик\Desktop\роботы\GISMO project\Quik\obj\Debug\PortfoliosWindow.baml
+C:\Users\Машульчик\Desktop\роботы\GISMO project\Quik\obj\Debug\PositionsWindow.baml
+C:\Users\Машульчик\Desktop\роботы\GISMO project\Quik\obj\Debug\QuotesWindow.baml
+C:\Users\Машульчик\Desktop\роботы\GISMO project\Quik\obj\Debug\SecuritiesWindow.baml
+C:\Users\Машульчик\Desktop\роботы\GISMO project\Quik\obj\Debug\StopOrderWindow.baml
+C:\Users\Машульчик\Desktop\роботы\GISMO project\Quik\obj\Debug\Strategy.baml
+C:\Users\Машульчик\Desktop\роботы\GISMO project\Quik\obj\Debug\TradesWindow.baml
+C:\Users\Машульчик\Desktop\роботы\GISMO project\Quik\obj\Debug\App.baml
+C:\Users\Машульчик\Desktop\роботы\GISMO project\Quik\obj\Debug\MainWindow.g.cs
+C:\Users\Машульчик\Desktop\роботы\GISMO project\Quik\obj\Debug\MyTradesWindow.g.cs
+C:\Users\Машульчик\Desktop\роботы\GISMO project\Quik\obj\Debug\NewOrderWindow.g.cs
+C:\Users\Машульчик\Desktop\роботы\GISMO project\Quik\obj\Debug\NewStopOrderWindow.g.cs
+C:\Users\Машульчик\Desktop\роботы\GISMO project\Quik\obj\Debug\OrdersWindow.g.cs
+C:\Users\Машульчик\Desktop\роботы\GISMO project\Quik\obj\Debug\PortfoliosWindow.g.cs
+C:\Users\Машульчик\Desktop\роботы\GISMO project\Quik\obj\Debug\PositionsWindow.g.cs
+C:\Users\Машульчик\Desktop\роботы\GISMO project\Quik\obj\Debug\QuotesWindow.g.cs
+C:\Users\Машульчик\Desktop\роботы\GISMO project\Quik\obj\Debug\SecuritiesWindow.g.cs
+C:\Users\Машульчик\Desktop\роботы\GISMO project\Quik\obj\Debug\StopOrderWindow.g.cs
+C:\Users\Машульчик\Desktop\роботы\GISMO project\Quik\obj\Debug\Strategy.g.cs
+C:\Users\Машульчик\Desktop\роботы\GISMO project\Quik\obj\Debug\TradesWindow.g.cs
+C:\Users\Машульчик\Desktop\роботы\GISMO project\Quik\obj\Debug\App.g.cs
+C:\Users\Машульчик\Desktop\роботы\GISMO project\Quik\obj\Debug\RoboGISMO_Content.g.cs
+C:\Users\Машульчик\Desktop\роботы\GISMO project\Quik\obj\Debug\RoboGISMO_MarkupCompile.cache
+C:\Users\Машульчик\Desktop\роботы\GISMO project\Quik\obj\Debug\RoboGISMO.g.resources
+C:\Users\Машульчик\Desktop\роботы\GISMO project\Quik\obj\Debug\RoboGISMO.Properties.Resources.resources
+C:\Users\Машульчик\Desktop\роботы\GISMO project\Quik\obj\Debug\QuikGISMO.csproj.GenerateResource.Cache
+E:\роботы\GISMO project\Quik\bin\Debug\RoboGISMO.exe.config
+E:\роботы\GISMO project\Quik\obj\Debug\RoboGISMO.exe
+E:\роботы\GISMO project\Quik\obj\Debug\RoboGISMO.pdb
